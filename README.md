@@ -45,5 +45,10 @@ change the buffer and timeout at router.
 
 ## Progress
 1. Measure Packet begin;
+2. Throughput test finished;
+3. another relay node finished;
+4. contribute to recalculate checksum in kernel module;
+5. thoughput improvement by define MTU at server with UDP size 1500 B;
+6. change AIFS from server packet begins;
 
 
